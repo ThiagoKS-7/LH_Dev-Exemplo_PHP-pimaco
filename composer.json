@@ -1,0 +1,18 @@
+{
+    "name": "luizferreira/pimaco2",
+    "description": "Pimaco teste",
+    "autoload": {
+        "psr-4": {
+            "Luizferreira\\Pimaco2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luiz Henrique P. Ferreira",
+            "email": "luiz.ferreira@meta.com.br"
+        }
+    ],
+    "require": {
+        "proner/phppimaco": "^1.2"
+    }
+}
